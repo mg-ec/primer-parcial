@@ -1,0 +1,27 @@
+@import
+url(https://fonts.googleapis.com/css?family=Cutive+Mono);
+
+@import url(https://fonts.googleapis.com/css?family=VT323);
+
+@import url(https://fonts.googleapis.com/css?family=Arvo);
+
+body{
+  background-color: white;
+  margin-left: 275px;
+  margin-right: 275px;
+}
+
+h1{
+  text-align: center;
+  font-size: 39px;
+  font-family: 'vt323';
+  color: black;
+}
+
+h2{
+  font-family:'cutive mono'
+}
+
+h3{
+  font-family: 'arvo';
+}
